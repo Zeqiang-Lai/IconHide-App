@@ -5,6 +5,12 @@ A Simple Application for Hiding Desktop Icons on Macos
 
 
 
+## Preview
+
+![2018-09-23 21-46-54.2018-09-23 21_47_41.gif](http://owbw1xx99.bkt.clouddn.com/2018-09-23%2021-46-54.2018-09-23%2021_47_41.gif)
+
+
+
 ## Download
 
 You can download it from Relases or [click](https://github.com/Zeqiang-Lai/IconHide-App/releases/latest) here.
